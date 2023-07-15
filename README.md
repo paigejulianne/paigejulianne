@@ -12,6 +12,8 @@ With a wealth of experience and an unwavering passion for innovation, I am commi
 
 My personal website can be found at [https://paigejulianne.com](https://paigejulianne.com)
 
+Sponsor my open-source work at [https://github.com/sponsors/paigejulianne](https://github.com/sponsors/paigejulianne)
+
 - 🔭 I’m currently working on lots of fun stuff at [METRC](https://www.metrc.org/)
 - 🌱 I’m currently learning about clinical trials operations
 - 👯 I’m looking to collaborate on REDCap external modules
