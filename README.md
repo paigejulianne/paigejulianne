@@ -6,7 +6,9 @@ Presently, I have the privilege of serving as the REDCap administrator and progr
 
 Additionally, I am currently pursuing a bachelor’s degree in health information management at Western Governor’s University (WGU), further expanding my expertise in this field.
 
-Throughout my illustrious career, I have had the opportunity to contribute my talents to esteemed organizations such as AT&T, Cisco, IBM, North Carolina State University, and MCI/Worldcom (now Verizon Business). My repertoire includes developing a diverse range of web applications, ranging from eCommerce platforms to comprehensive systems management solutions. Moreover, I embarked on an entrepreneurial venture as the proprietor of Concert Telecommunications, my own Voice-over-IP telecommunications firm, which I successfully managed for six years. In 2013, I proudly graduated from the prestigious Kauffman FastTrac TechVenture program, facilitated by the esteemed Council for Entrepreneurial Development (CED NC).
+Throughout my illustrious career, I have had the opportunity to contribute my talents to esteemed organizations such as AT&T, Cisco, IBM, North Carolina State University, and MCI/Worldcom (now Verizon Business). My repertoire includes developing a diverse range of web applications, ranging from eCommerce platforms to comprehensive systems management solutions. 
+
+Moreover, I embarked on an entrepreneurial venture as the proprietor of Concert Telecommunications, my own Voice-over-IP telecommunications firm, which I successfully managed for six years. In 2013, I proudly graduated from the prestigious Kauffman FastTrac TechVenture program, facilitated by the esteemed Council for Entrepreneurial Development (CED NC).
 
 With a wealth of experience and an unwavering passion for innovation, I am committed to making meaningful contributions to the ever-evolving landscape of technology.
 
