@@ -1,23 +1,21 @@
-Greetings! I’m Paige Julianne, a seasoned software engineer residing in the vibrant Research Triangle region of North Carolina. As a passionate advocate for inclusivity, I proudly identify as a lesbian transwoman, and I am blessed with two amazing daughters from my first marriage.
+Hello, I am Paige Julianne, a seasoned software engineer based in the vibrant Research Triangle area of North Carolina. I am a proud lesbian transwoman and a parent to two wonderful daughters from my first marriage.
 
-My journey in the world of coding began back in 1989, but I have been professionally honing my skills since 1996. Over the years, I have cultivated a deep affinity for PHP, making it my preferred language for creating exceptional software solutions.
+I started my journey in coding in 1989 and have been honing my skills professionally since 1996. I have developed a strong affinity for PHP and consider it my preferred language for creating exceptional software solutions.
 
-Presently, I have the privilege of serving as the REDCap administrator and programmer at the renowned Major Extremity Trauma Research Consortium (METRC), headquartered at the esteemed Johns Hopkins Bloomberg School of Public Health.
+Currently, I am the REDCap administrator and programmer at the Major Extremity Trauma Research Consortium (METRC), based at the prestigious Johns Hopkins Bloomberg School of Public Health. Additionally, I am pursuing a bachelor’s degree in Business Administration with a concentration in Information Technology Management at Western Governors’ University (WGU) to further enhance my expertise in this field.
 
-Additionally, I am currently pursuing a bachelor’s degree in health information management at Western Governor’s University (WGU), further expanding my expertise in this field.
+Throughout my career, I have had the opportunity to work with esteemed organizations such as AT&T, Cisco, IBM, North Carolina State University, and MCI/Worldcom (now Verizon Business). My work involves developing various web applications, including eCommerce platforms and comprehensive systems management solutions.
 
-Throughout my illustrious career, I have had the opportunity to contribute my talents to esteemed organizations such as AT&T, Cisco, IBM, North Carolina State University, and MCI/Worldcom (now Verizon Business). My repertoire includes developing a diverse range of web applications, ranging from eCommerce platforms to comprehensive systems management solutions. 
+I also ventured into entrepreneurship as the owner of Concert Telecommunications, my own voice-over-IP telecommunications company, which I successfully managed for six years. In 2013, I graduated from the renowned Kauffman FastTrac TechVenture program, facilitated by the esteemed Council for Entrepreneurial Development (CED NC).
 
-Moreover, I embarked on an entrepreneurial venture as the proprietor of Concert Telecommunications, my own Voice-over-IP telecommunications firm, which I successfully managed for six years. In 2013, I proudly graduated from the prestigious Kauffman FastTrac TechVenture program, facilitated by the esteemed Council for Entrepreneurial Development (CED NC).
+With my extensive experience and unwavering passion for innovation, I am dedicated to making meaningful contributions to the ever-evolving technology landscape.
 
-With a wealth of experience and an unwavering passion for innovation, I am committed to making meaningful contributions to the ever-evolving landscape of technology.
-
-My personal website can be found at [https://paigejulianne.com](https://paigejulianne.com)
+My website can be found at [https://paigejulianne.com](https://paigejulianne.com)
 
 Sponsor my open-source work at [https://github.com/sponsors/paigejulianne](https://github.com/sponsors/paigejulianne)
 
 - 🔭 I’m currently working on lots of fun stuff at [METRC](https://www.metrc.org/)
-- 🌱 I’m currently learning about clinical trials operations
+- 🌱 I’m currently learning about clinical trial operations
 - 👯 I’m looking to collaborate on REDCap external modules
 - 💬 Ask me about PHP and being a transbian in the tech world
 - 📫 How to reach me: see the links to the left under my picture
